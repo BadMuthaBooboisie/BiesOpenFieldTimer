@@ -1,0 +1,4 @@
+To run the program:
+• cd {download directory}/BiesTimerLinux/BiesOpenFieldTimer
+• make
+• ./BiesOpenFieldTimer
