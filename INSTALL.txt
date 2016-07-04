@@ -1,4 +1,4 @@
 To run the program:
-• cd {download directory}/BiesTimerLinux/BiesOpenFieldTimer
-• make
+• open a Terminal and type
+• cd {download directory}/BiesTimerOSX/BiesOpenFieldTimer
 • ./BiesOpenFieldTimer
